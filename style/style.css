@@ -25,39 +25,6 @@ canvas.particles-js-canvas-el{
     z-index: -10000;
     margin: 0px;
 }
-/* Navbar Session */
-.nav_section .navbar-brand{
-    font-size: 22px;
-    color: white;
-}
-
-.nav_section .navbar-brand span{
-    color: var(--pink-color);
-}
-.nav_section .navbar-nav li{
-    margin: 0px 8px;
-}
-.nav_section .navbar-nav li a{
-    color: white !important;
-    font-size: 15px;
-}
-.nav_section .navbar-nav .nav-link::before{
-    content: "";
-    width: 0px;
-    height: 0px;
-    background-color: white;
-    position: absolute;
-    bottom: 7px;
-    transition: 0.5s;
-}
-.nav_section .navbar-nav .nav-link:hover::before{
-    content: '';
-    height: 2px;
-    width: 17px;
-    background-color: white;
-    position: absolute;
-    bottom: 7px;
-}
 
 .hero_section .row{
     display: flex;
