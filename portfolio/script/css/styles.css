@@ -229,7 +229,7 @@ canvas.particles-js-canvas-el{
   position: absolute;
   right: 0;
   bottom: 0;
-  width: 500px;
+  width: 295px;
 }
 
 /*BUTTONS*/
@@ -316,6 +316,7 @@ canvas.particles-js-canvas-el{
 .skills__img{
   border-radius: .5rem;
 }
+
 
 /* ===== CONTACT =====*/
 .contact__input{
@@ -411,7 +412,7 @@ canvas.particles-js-canvas-el{
   }
   .home__img{
     width: 457px;
-    bottom: 25%;
+    bottom: 15%;
   }
 
   .about__container, .skills__container{
